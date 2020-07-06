@@ -19,3 +19,43 @@
     padding: 9px 25px;
     cursor:pointer;
 }
+.catagorie1{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.catagorie2{
+    background-color: orchid;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.catagorie3{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.catagories h1{
+    color:white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height:300px;
+}
+#subscribe h6{
+    color:gray;
+}
+footer{
+    text-align: center;
+}
